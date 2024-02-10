@@ -2,9 +2,9 @@
 
 Repositório dedicado a estudos do livro "Entendendo Algoritmos: Um guia ilustrado para programadores e outros curiosos"
 
-- [ ] [Cap 1: Introdução a algoritmos](/1-Introducao-a-algoritmos/)
-- [ ] [Cap 2: Ordenação por seleção](/2-Ordenacao-por-selecao/)
-- [ ] [Cap 3: Recursão](/3-Recursao/)
+- [x] [Cap 1: Introdução a algoritmos](/1-Introducao-a-algoritmos/)
+- [x] [Cap 2: Ordenação por seleção](/2-Ordenacao-por-selecao/)
+- [x] [Cap 3: Recursão](/3-Recursao/)
 - [ ] [Cap 4: Quicksort](/4-Quicksort/)
 - [ ] [Cap 5: Tabelas hash](/5-Tabela-hash/)
 - [ ] [Cap 6: Pesquisa em largura](/6-Pesquisa-em-largura/)
